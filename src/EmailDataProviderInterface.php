@@ -1,6 +1,6 @@
 <?php
 
-namespace EmailValidation;
+namespace Citco;
 
 interface EmailDataProviderInterface
 {

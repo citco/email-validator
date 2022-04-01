@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace EmailValidation\Validations;
+namespace Citco\Validations;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\EmailDataProviderInterface;
+use Citco\EmailAddress;
+use Citco\EmailDataProviderInterface;
 
 abstract class Validator
 {

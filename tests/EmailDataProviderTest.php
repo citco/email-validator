@@ -1,8 +1,8 @@
 <?php
 
-namespace EmailValidation\Tests;
+namespace Citco\Tests;
 
-use EmailValidation\EmailDataProvider;
+use Citco\EmailDataProvider;
 use PHPUnit\Framework\TestCase;
 
 class EmailDataProviderTest extends TestCase

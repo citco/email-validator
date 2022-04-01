@@ -1,8 +1,8 @@
 <?php
 
-namespace EmailValidation\Tests;
+namespace Citco\Tests;
 
-use EmailValidation\EmailAddress;
+use Citco\EmailAddress;
 use PHPUnit\Framework\TestCase;
 
 class EmailAddressTest extends TestCase

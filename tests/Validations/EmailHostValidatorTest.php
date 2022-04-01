@@ -1,9 +1,9 @@
 <?php
 
-namespace EmailValidation\Tests\Validations;
+namespace Citco\Tests\Validations;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\Validations\EmailHostValidator;
+use Citco\EmailAddress;
+use Citco\Validations\EmailHostValidator;
 use Mockery;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use PHPUnit\Framework\TestCase;

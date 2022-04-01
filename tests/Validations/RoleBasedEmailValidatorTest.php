@@ -1,10 +1,10 @@
 <?php
 
-namespace EmailValidation\Tests\Validations;
+namespace Citco\Tests\Validations;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\EmailDataProvider;
-use EmailValidation\Validations\RoleBasedEmailValidator;
+use Citco\EmailAddress;
+use Citco\EmailDataProvider;
+use Citco\Validations\RoleBasedEmailValidator;
 use PHPUnit\Framework\TestCase;
 
 class RoleBasedEmailValidatorTest extends TestCase

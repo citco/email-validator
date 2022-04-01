@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EmailValidation\Validations;
+namespace Citco\Validations;
 
 interface ValidatorInterface
 {

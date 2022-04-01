@@ -2,8 +2,8 @@
 
 namespace EmailValidation\Tests\Validations;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\Validations\MxRecordsValidator;
+use Citco\EmailAddress;
+use Citco\Validations\MxRecordsValidator;
 use Mockery;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use PHPUnit\Framework\TestCase;

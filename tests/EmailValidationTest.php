@@ -1,13 +1,13 @@
 <?php
 
-namespace EmailValidation\Tests;
+namespace Citco\Tests;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\EmailDataProvider;
-use EmailValidation\EmailValidator;
-use EmailValidation\ValidationResults;
-use EmailValidation\Validations\MisspelledEmailValidator;
-use EmailValidation\Validations\ValidFormatValidator;
+use Citco\EmailAddress;
+use Citco\EmailDataProvider;
+use Citco\EmailValidator;
+use Citco\ValidationResults;
+use Citco\Validations\MisspelledEmailValidator;
+use Citco\Validations\ValidFormatValidator;
 use Mockery;
 use Mockery\Adapter\Phpunit\MockeryPHPUnitIntegration;
 use Mockery\MockInterface;

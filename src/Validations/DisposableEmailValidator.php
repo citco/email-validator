@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace EmailValidation\Validations;
+namespace Citco\Validations;
 
 class DisposableEmailValidator extends Validator implements ValidatorInterface
 {

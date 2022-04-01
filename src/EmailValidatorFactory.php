@@ -2,16 +2,16 @@
 
 declare(strict_types=1);
 
-namespace EmailValidation;
+namespace Citco;
 
-use EmailValidation\Validations\DisposableEmailValidator;
-use EmailValidation\Validations\EmailHostValidator;
-use EmailValidation\Validations\FreeEmailServiceValidator;
-use EmailValidation\Validations\MisspelledEmailValidator;
-use EmailValidation\Validations\MxRecordsValidator;
-use EmailValidation\Validations\RoleBasedEmailValidator;
-use EmailValidation\Validations\Validator;
-use EmailValidation\Validations\ValidFormatValidator;
+use Citco\Validations\DisposableEmailValidator;
+use Citco\Validations\EmailHostValidator;
+use Citco\Validations\FreeEmailServiceValidator;
+use Citco\Validations\MisspelledEmailValidator;
+use Citco\Validations\MxRecordsValidator;
+use Citco\Validations\RoleBasedEmailValidator;
+use Citco\Validations\Validator;
+use Citco\Validations\ValidFormatValidator;
 
 class EmailValidatorFactory
 {

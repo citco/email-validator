@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace EmailValidation;
+namespace Citco;
 
-use EmailValidation\Validations\Validator;
+use Citco\Validations\Validator;
 
 class EmailValidator
 {

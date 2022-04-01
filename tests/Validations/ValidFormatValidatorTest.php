@@ -1,9 +1,9 @@
 <?php
 
-namespace EmailValidation\Tests\Validations;
+namespace Citco\Tests\Validations;
 
-use EmailValidation\EmailAddress;
-use EmailValidation\Validations\ValidFormatValidator;
+use Citco\EmailAddress;
+use Citco\Validations\ValidFormatValidator;
 use PHPUnit\Framework\TestCase;
 
 class ValidFormatValidatorTest extends TestCase
