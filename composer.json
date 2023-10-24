@@ -11,8 +11,7 @@
   ],
   "require": {
     "php": ">=7.4",
-    "ext-json": "*",
-    "daveearley/daves-email-validation-tool": "dev-master"
+    "ext-json": "*"
   },
   "require-dev": {
     "mockery/mockery": "^1.3",
